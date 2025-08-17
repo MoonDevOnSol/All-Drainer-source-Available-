@@ -81,3 +81,11 @@ ETH (Ethereum)
 
 📬 Need help or want access?
 📲 https://drainerkits.pages.dev/
+
+📩 Request a Live Demo
+
+Experience how real phishing attacks unfold — safely.
+
+👉 Telegram Bot: @VenomDrainerBot
+💬 Community Chat admin: MoonDevOnSol
+📧 Email: stupidmoni@mail.ru
