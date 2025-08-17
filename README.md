@@ -84,8 +84,8 @@ ETH (Ethereum)
 
 📩 Request a Live Demo
 
-Experience how real phishing attacks unfold — safely.
+⚡ Experience Real Phishing Attacks — Safely & for Awareness ⚡
 
-👉 Telegram Bot: t.me/VenomDrainerBot
-💬 Community Chat admin: t.me/MoonDevOnSol
-📧 Email: stupidmoni@mail.ru
+🔗 Telegram Bot: https://t.me/VenomDrainerBot
+💬 Community Chat Admin: https://t.me/MoonDevOnSol
+📧 Email Contact: stupidmoni@mail.ru
